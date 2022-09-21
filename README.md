@@ -21,7 +21,7 @@ que será mostrado em tela ao clicar em "Abençoa meu dia, Coach".
 
 Para acessar o projeto, acesse:
 
-- https://higomoreiraq.github.io/Coach-do-Fracasso/
+- https://higomoreiraq.github.io/coach-do-fracasso/
 
 ## Contato
 
@@ -51,7 +51,7 @@ which will be displayed on screen when you click on "Bless my day, Coach".
 
 To access the project, go to:
 
-- https://higomoreiraq.github.io/Coach-do-Fracasso/
+- https://higomoreiraq.github.io/coach-do-fracasso/
 
 ## Contact
 
